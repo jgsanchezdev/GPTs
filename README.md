@@ -1,7 +1,26 @@
 # GPTs
-This repo collects leaked prompts of GPTs.
+This repo collects leaked prompts of GPTs. 
 
-## Prompts of GPTs
+Most of the prompts I collected from [here](https://x.com/dotey/status/1722831122285932592?s=20), some are from GitHub users' pull requests, and some are from using some hacked by me.
+
+
+## Sponsors
+
+<p align="center">
+<h3 align="center">Sponsor</h3>
+</p>
+
+<p align="center">
+<a target="_blank" href="https://gptshunter.com/?utm_source=leaked_gpts">
+<img alt="GPTsHunter" src="https://gptshunter.com/full-logo.svg" width="300">
+</a>
+</p>
+
+
+
+- [gptshunter](https://gptshunter.com/?utm_source=leaked_gpts) Find userful GPTs here.
+
+## Leaked Prompts of GPTs
 - [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
 - [Istio Guru](./prompts/IstioGuru.md) by Rohit Ghumare
 - [BabyAgi.txt](./prompts/BabyAgi.txt.md) by Nicholas Dobos
@@ -16,6 +35,7 @@ This repo collects leaked prompts of GPTs.
 - [Sous Chef](./prompts/Sous%20Chef.md) by ChatGPT
 - [Tech Support Advisor](./prompts/Tech%20Support%20Advisor.md) by ChatGPT
 - [Sticker Whiz](./prompts/Sticker%20Whiz.md) by ChatGPT
+- [Obscribe](./prompts/Obscribe.md) by Azhar Hama
 - [Girlfriend Emma](./prompts/Girlfriend%20Emma.md) by dddshop.com
 - [TherapistGPT](./prompts/TherapistGPT.md) by David Boyle
 - [🎀My excellent classmates (Help with my homework!)](./prompts/%F0%9F%8E%80My%20excellent%20classmates%20(Help%20with%20my%20homework!).md) by Kevin Ivery
@@ -207,9 +227,65 @@ This repo collects leaked prompts of GPTs.
 - [Ebook Writer & Designer GPT](./prompts/Ebook%20Writer%20%26%20Designer%20GPT.md) by Dasher
 - [Ghostwriters](./prompts/Ghostwriters.md) by osita okaforezeadi
 - [Riddle Master (燈謎天尊)](./prompts/Riddle%20Master%20%28%E7%87%88%E8%AC%8E%E5%A4%A9%E5%B0%8A%29) by WEBBER CHANG
+- [互联网+挑战杯大创竞赛导师](./prompts/互联网+挑战杯大创竞赛导师.md) by studyinglover
+- [Inkspire Tattoo Bot](./prompts/Inkspire%20Tattoo%20Bot.md) by idcesares
+- [tsDoc Generator](./prompts/tsDoc%20Generator.md) by Timur Catakli
+- [Pepegen](./prompts/Pepegen.md) by nader dabit
+- [Small answer](./prompts/Small%20answer.md) by Jason McGhee
+- [AutoGen Engineer](./prompts/AutoGen%20Engineer.md) by adamludolph.com
+- [Geopolitics GPT](./prompts/Geopolitics%20GPT.md) by siamintelligenceunit.com
+- [GPT Shield](./prompts/GPT%20Shield.md) by wonderwhy-er.com
+- [MidJourney Prompt Generator](./prompts/MidJourney%20Prompt%20Generator.md) by Digiagent
+- [Codey](./prompts/Codey.md) by heaven.tools
+- [Executive f(x)n](./prompts/Executive%20f(x)n.md) by mindgoblinstudios.com
+- [Strap UI](./prompts/Strap%20UI.md) by nertai.co
+- [World Class Software Engineer](./prompts/World%20Class%20Software%20Engineer.md) by nertai.co
+- [Unbreakable GPT](./prompts/Unbreakable%20GPT.md) by aevummachinae.com
+- [Animal Chefs](./prompts/Animal%20Chefs.md) by simonwillison.net
+- [The Greatest Computer Science Tutor](./prompts/The%20Greatest%20Computer%20Science%20Tutor.md) by nertai.co
+- [Trending TikTok Hashtags Finder Tool](./prompts/Trending%20TikTok%20Hashtags%20Finder%20Tool.md) by seo.ai
+- [Mr. Ranedeer Config Wizard](./prompts/Mr.%20Ranedeer%20Config%20Wizard.md) by mr-ranedeer.com
+- [👌Academic Assistant Pro](./prompts/Academic%20Assistant%20Pro.md) by Kevin Ivery
+- [Front-end expert](./prompts/Front-end%20expert.md) by Zhang Xiaoyuan
+- [ChatSSH: talk to your linux computers](./prompts/chatssh.md) by chatssh.net
+- [Chat NeurIPS](./prompts/Chat%20NeurIPS.md) by myaidrive.com
+- [WebGPT🤖](./prompts/WebGPT.md) by wegpt.ai
+- [AllTrails](./prompts/AllTrails.md)　By alltrails.com
+- [ChatDB: talk to your databases](./prompts/ChatDB.md)　By chatssh.net
+- [中文作文批改助手](./prompts/中文作文批改助手.md) by Arden Moses
+- [DeepGame](./prompts/DeepGame.md)　By Utile Labs
+- [Pineapple Builder](./prompts/PineappleBuilder.md)　By Peter Kowalczyk
+- [Astrology Fortune Teller](./prompts/Astrology%20Fortune%20Teller.md) by quaere.ai
+- [考研保研简历提问助手](./prompts/考研保研简历提问助手.md) by LeoCui
+- [MJ Prompt Generator (V6)](./prompts/MJ%20Prompt%20Generator%20(V6).md) by featuredgpts.com
+- [法律专家](./prompts/法律专家.md) by Weiqiao Zhu
+- [Book Creator Guide](./prompts/Book%20Creator%20Guide.md) by Choi Yong
+- [Gauntlet: Movies](./prompts/Gauntlet%20Movies.md) by Josh Brent N. Villocido
+- [Whimsical Diagrams](./prompts/Whimsical%20Diagrams.md) by whimsical.com
+- [Books](./prompts/Books.md) by Josh Brent N. Villocido
+- [鹦鹉GPT 🦜](./prompts/鹦鹉GPT%20🦜.md) by gantrol.com
+- [鲁迅说](./prompts/鲁迅说.md) by QCHEN
+- [Midjouney Prompt Tools](./prompts/Midjouney%20Prompt%20Tools.md) by chatby.xyz
+- [Mid Journey V6 Prompt Creator](./prompts/Mid%20Journey%20V6%20Prompt%20Creator.md) by jandthebots.com
+- [思维导图](./prompts/思维导图.md) by Tang Youpeng
+- [Diagrams: Show Me](./prompts/Diagrams%20Show%20Me.md) by helpful.dev
+- [Write For Me](./prompts/Write%20For%20Me.md) by puzzle.today
+- [Logo Creator](./prompts/Logo%20Creator.md) by Chase Lean
+- [董宇辉小作文助手](./prompts/董宇辉小作文助手.md) by wesureai.com
+- [Mega-Prompt](./prompts/Mega-Prompt.md) by Aisen Lopez
+- [Prompt For Me](./prompts/Prompt%20For%20Me.md) by hansgpt.me
 
 ## Open Source GPTs
 GitHub repos with prompts, actions and knowledge files of existing GPTs.
 
 - [Open Data Germany](https://github.com/stefangrotz/OpenDataGermanyGPT)
 - [EsperantoGPT](https://github.com/parolteknologio/EsperantoGPT)
+
+## GPT Prompt Analysis
+Analysis and summaries of the GPT prompts.
+
+- [GPT Prompt Notes](https://grantjenks.github.io/gpt-prompt-notes/)
+
+## Contributors
+
+![Contributors](https://contrib.rocks/image?repo=linexjlin/GPTs)
